@@ -27,7 +27,7 @@ I transformed raw code into a visual intelligence platform designed for operatio
 
 ## 🚀 Live Demo
 Experience the interactive dashboard and test different logistics scenarios here:
-👉 [**View Interactive Dashboard on Tableau Public**](BURAYA_TABLEAU_PUBLIC_LINKINI_YAPISTIR)
+👉 https://public.tableau.com/app/profile/mehmet.okay.zayd.n/viz/Eta_Prediction/STRATEGICLOGISTICSRISKANDOPERATIONSPANEL?publish=yes
 
 ## 💬 Final Thoughts
 This project is more than just a data visualization for me; it’s a reflection of my passion for optimizing industrial processes through engineering. I am constantly refining the model, with plans to add cost analysis and fuel consumption metrics in the next version.
